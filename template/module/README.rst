@@ -57,28 +57,15 @@ help us smashing it by providing a detailed and welcomed `feedback
 Credits
 =======
 
-Images
-------
-
-* Odoo Community Association: `Icon <https://github.com/OCA/maintainer-tools/blob/master/template/module/static/description/icon.svg>`_.
-
-Contributors
-------------
-
-* Firstname Lastname <email.address@example.org>
-* Second Person <second.person@example.org>
-
 Maintainer
 ----------
 
-.. image:: https://odoo-community.org/logo.png
-   :alt: Odoo Community Association
+.. image:: http://www.bistasolutions.com/images/xlogo.png.pagespeed.ic.oGCl42BZ1r.png
+   :alt: Bista Solutions
    :target: https://odoo-community.org
 
-This module is maintained by the OCA.
+This module is maintained by Bista Solutions.
 
-OCA, or the Odoo Community Association, is a nonprofit organization whose
-mission is to support the collaborative development of Odoo features and
-promote its widespread use.
+Please email sales@bistasolutions.com with any questions or comments.
 
-To contribute to this module, please visit https://odoo-community.org.
+To learn more about us and what we do, visit us on the web at http://www.bistasolutions.com/open-source-erp
